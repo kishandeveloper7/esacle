@@ -1,3 +1,22 @@
+ 
+//  API URLs
+
+    api/create_products
+    api/listproducts	
+    api/updateproducts	
+    api/deleteproducts	
+	
+	
+    api/create_business	
+    api/listbusiness
+
+    api/create_users	
+    api/listuser	
+    api/select_business	
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
